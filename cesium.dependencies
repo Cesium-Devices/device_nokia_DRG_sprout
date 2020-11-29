@@ -1,0 +1,10 @@
+[
+  {
+    "repository": "kernel_nokia_sdm660",
+    "target_path": "kernel/nokia/sdm660"
+  },
+  {
+    "repository": "vendor_nokia_DRG_sprout",
+    "target_path": "vendor/nokia/DRG_sprout"
+  }
+]
