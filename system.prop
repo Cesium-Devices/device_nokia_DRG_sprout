@@ -24,6 +24,11 @@ ro.bluetooth.emb_wp_mode=true
 ro.bluetooth.wipower=true
 vendor.bluetooth.soc=cherokee
 
+# Blur
+ro.surface_flinger.supports_background_blur=1
+persist.sys.sf.disable_blurs=1
+ro.sf.blurs_are_expensive=1
+
 # CABL
 ro.qualcomm.cabl=2
 ro.vendor.display.cabl=2
